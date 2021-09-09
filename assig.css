@@ -1,0 +1,25 @@
+.Assignmentbox{
+    position: absolute ;
+    left: 35%;
+    top: 15%;
+}
+
+.a{
+    text-decoration: none;
+    font-size: 35px;
+    color: white;
+
+
+}
+.box {
+    position:none;
+    border: 2px solid white;
+    width: 90%;
+    height: 500px;
+    border-radius: 10%;
+}
+.boxa{
+    margin: 30px;
+    width: 50%;
+    height: 100px;
+}
